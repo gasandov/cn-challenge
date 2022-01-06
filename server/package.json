@@ -1,0 +1,21 @@
+{
+  "name": "cn-server",
+  "version": "1.0.0",
+  "description": "Middle layer for cn challenge",
+  "main": "server.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "newsapi": "^2.4.1",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
