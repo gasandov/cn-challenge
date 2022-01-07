@@ -6,7 +6,7 @@ describe("component - CNPagination", () => {
     cleanup();
   });
 
-  it("should not render on non props provided", () => {
+  it("should not render when no props are provided", () => {
     render(<CNPagination />);
 
     const component = screen.queryAllByTestId("cn-pagination");

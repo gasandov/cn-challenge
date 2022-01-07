@@ -31,7 +31,11 @@ export default function Article({ data }) {
   const description = desc || <Skeleton animation={"wave"} height={50} />;
 
   return (
-    <Card className={classes.card} sx={{ maxWidth: 345 }}>
+    <Card
+      className={classes.card}
+      data-testid="cn-article-card"
+      sx={{ maxWidth: 345 }}
+    >
       {media}
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
