@@ -1,3 +1,5 @@
+"use strict";
+
 const { SERVER_ERROR, BAD_REQUEST } = require("../constants/http-status-codes");
 
 module.exports = (req, res, error) => {

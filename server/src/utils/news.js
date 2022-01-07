@@ -1,3 +1,5 @@
+"use strict";
+
 /**
  * @description Filter non-accepted arguments and filling the provided and allowed ones
  * for headline endpoint
@@ -6,7 +8,7 @@
  */
 const buildHeadlineArguments = (params) => ({
   q: params.q,
-  ...(params?.country && { sources: params.country }),
+  ...(params?.country && { country: params.country }),
   ...(params?.category && { category: params.category }),
   ...(params?.sources && { sources: params.sources }),
   ...(params?.pageSize && { pageSize: params.pageSize }),

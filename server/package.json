@@ -6,7 +6,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "test": "jest"
   },
   "dependencies": {
     "body-parser": "^1.19.1",
@@ -17,7 +18,9 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
+    "jest": "^27.4.7",
     "nodemon": "^2.0.15",
+    "supertest": "^6.1.6",
     "swagger-jsdoc": "^6.1.0",
     "swagger-ui-express": "^4.3.0"
   }
