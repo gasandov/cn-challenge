@@ -2,7 +2,7 @@ import Grid from "@mui/material/Grid";
 import Article from "./Article";
 
 export default function ArticlesList({ articles }) {
-  if (articles.length === 0) {
+  if (!articles) {
     return null;
   }
 

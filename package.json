@@ -1,0 +1,19 @@
+{
+  "name": "cn-challenge",
+  "version": "1.0.0",
+  "description": "client and server for cn-challenge",
+  "main": "index.js",
+  "repository": "git@github.com:gasandov/cn-challenge.git",
+  "author": "German Sandoval <german.sandoval.ie@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "concurrently \"yarn dev:client\" \"yarn dev:server\"",
+    "dev:client": "cd client && yarn start",
+    "dev:server": "cd server && yarn dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}

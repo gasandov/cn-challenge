@@ -1,5 +1,0 @@
-  sources: 'bbc-news,the-verge',
-  q: 'bitcoin',
-  category: 'business',
-  language: 'en',
-  country: 'us'

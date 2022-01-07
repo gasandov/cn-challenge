@@ -11,7 +11,7 @@ import { useStyles } from "./styles";
 export default function Article({ data }) {
   const classes = useStyles();
 
-  if (Object.keys(data).length === 0) {
+  if (!data) {
     return null;
   }
 

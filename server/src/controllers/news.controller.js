@@ -1,5 +1,8 @@
 const newsAPI = require("newsapi");
-const { buildArguments } = require("../utils/news");
+const {
+  buildHeadlineArguments,
+  buildEveythingArguments,
+} = require("../utils/news");
 const handleApiErrors = require("../utils/handle-api-errors");
 const {
   paramsOfHeadlines,
@@ -11,7 +14,7 @@ const newsClient = new newsAPI(process.env.NEWS_API_KEY);
 const getNews = async (req, res) => {
   try {
     const params = await paramsOfEverything.validate(req.body);
-    const arguments = buildArguments(params);
+    const arguments = buildEveythingArguments(params);
 
     const response = await newsClient.v2.everything(arguments);
 
@@ -24,7 +27,7 @@ const getNews = async (req, res) => {
 const getHeadlines = async (req, res) => {
   try {
     const params = await paramsOfHeadlines.validate(req.body);
-    const arguments = buildArguments(params);
+    const arguments = buildHeadlineArguments(params);
 
     const response = await newsClient.v2.topHeadlines(arguments);
 
