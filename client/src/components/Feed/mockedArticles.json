@@ -1,0 +1,208 @@
+{
+  "data": {
+    "status": "ok",
+    "totalResults": 23,
+    "articles": [
+      {
+        "source": ["Object"],
+        "author": "Nibir Khan",
+        "title": "Queensland records 10,953 new cases of COVID-19, start of school year may be delayed by Omicron wave",
+        "description": "Premier Annastacia Palaszczuk says Queensland could be looking at a one-to-two week delay to the start of school, with a concrete decision to be made in the coming days, as the state confirms almost 11,000 new cases.",
+        "url": "https://www.abc.net.au/news/2022-01-07/queensland-covid-19-cases-icu-hospital-school-delay/100743826",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/28f16f79616b36e74d9ffb3b368fba62?impolicy=wcms_crop_resize&cropH=844&cropW=1500&xPos=0&yPos=0&width=862&height=485",
+        "publishedAt": "2022-01-07T01:23:54+00:00",
+        "content": "Queensland has recorded 10,953 new cases of COVID-19, but Premier Annastacia Palaszczuk says there are \"absolutely more\" infections not being confirmed by authorities.\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "Zachary Basu",
+        "title": "Kazakhstan uprising complicates Putin's Ukraine calculus",
+        "description": "An unexpected crisis in another Soviet republic at a crucial time.",
+        "url": "https://www.axios.com/kazakhstan-russia-putin-ukraine-df944edd-592b-48f0-be65-b30325b7350c.html",
+        "urlToImage": "https://images.axios.com/EXGpnLYm62JWXWV6aVsJa0qgQAQ=/0x0:1920x1080/1366x768/2022/01/06/1641499904230.jpg",
+        "publishedAt": "2022-01-07T00:37:53Z",
+        "content": "Russian paratroopers descended on Kazakhstan's largest city Thursday to help quell the largest uprising in the history of the former Soviet republic with potential strategic implications for Russia's… [+2631 chars]"
+      },
+      {
+        "source": ["Object"],
+        "author": "BBC Sport",
+        "title": "UK & Ireland should abandon World Cup bid",
+        "description": "The UK and Republic of Ireland should abandon their 2030 World Cup bid and focus on hosting Euro 2028, says DCMS committee chair Julian Knight.",
+        "url": "http://www.bbc.co.uk/sport/football/59900391",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/6ED2/production/_122607382_gettyimages-1357270392.jpg",
+        "publishedAt": "2022-01-06T23:22:24.8743954Z",
+        "content": "England were ordered to play one match behind closed doors after trouble broke out during their Euro 2020 final against Italy at Wembley in July\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "Mats Rønning, Kristian Skårdalsmo, Simen Hunding Strømme",
+        "title": "Ber politiet droppe kinesiske droner",
+        "description": "Høyre er urolig for bruken av kinesiske droner i politiet og ber regjeringen stoppe anbudsprosessen. Nå kalles politidirektøren inn til møte hos justisministeren.",
+        "url": "https://www.nrk.no/norge/ber-politiet-droppe-kinesiske-droner-1.15796693",
+        "urlToImage": "https://gfx.nrk.no/fAtWA5f1vHKADTFaguMMUApl1-Y8F38yVWMKylEZZW7w.jpg",
+        "publishedAt": "2022-01-06T20:30:11Z",
+        "content": "Det ser ut til at politiet er i ferd med å kjøpe inn droner fra et kinesisk selskap som er forbudt i USA. Da bør det ringe noen bjeller. Vi kan ikke ha kinesiske droner i norske politipatruljer hvis … [+4914 chars]"
+      },
+      {
+        "source": ["Object"],
+        "author": "Hallvard Norum",
+        "title": "Vil ha makspris på normalt strømforbruk",
+        "description": "De skyhøye strømprisene fortsetter inn i det nye året. Tidligere energitopp og bransjeveteran Hans Erik Horn vil ha makspris på normale mengder strømforbruk – og full pris på resten.",
+        "url": "https://www.nrk.no/norge/tidligere-energitopp-foreslar-ny-makspris-ordning-pa-strom-1.15799298",
+        "urlToImage": "https://gfx.nrk.no/C9bR4hzSPLvTwLav9FEoZAAs31GpNQzbo9bLLIuj4pKw.jpg",
+        "publishedAt": "2022-01-06T19:33:46Z",
+        "content": "Når staten tjener uventet mye på uventet høye strømpriser, er det rett og rimelig at staten refunderer dette til strømkundene, sier Horn til NRK.\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": null,
+        "title": "Fünf Personen bei Unfall in Treptow-Köpenick verletzt – eine lebensgefährlich",
+        "description": "Inhaber von Goldschmiedewerkstatt gewaltsam überfallen + Bewaffneter Überfall auf Kino in Neukölln + Geldautomat in Wilmersdorf gesprengt + Der Blaulicht-Blog.",
+        "url": "https://www.tagesspiegel.de/berlin/polizei-justiz/polizeimeldungen-aus-berlin-fuenf-personen-bei-unfall-in-treptow-koepenick-verletzt-eine-lebensgefaehrlich/25616846.html",
+        "urlToImage": "https://www.tagesspiegel.de/images/rettungswagen-im-einsatz/24514568/13-format530.jpg",
+        "publishedAt": "2022-01-06T19:10:26+00:00",
+        "content": "Immer auf dem Laufenden in Berlin: Lesen Sie die aktuellen Meldungen aus Polizei, Justiz und Verkehr in unserem Blog. \r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "Jens Christian Sundby",
+        "title": "Norge får 50 millioner hurtigtester de neste ukene",
+        "description": "Dette er gode nyheter for norske kommuner. Selvtester har vært mangelvare etter smitteøkningen i desember.",
+        "url": "https://www.nrk.no/norge/norge-far-50-millioner-hurtigtester-de-neste-ukene-1.15798513",
+        "urlToImage": "https://gfx.nrk.no/RL9WwZljUL0m6yk7QcTJWARpXCqasXl8yoImp7E0pJpA.jpg",
+        "publishedAt": "2022-01-06T18:32:23Z",
+        "content": "Denne artikkelen er over en måned gammel, og kan inneholde utdaterte råd fra myndighetene angående koronasmitten.\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "Ben Wolfgang",
+        "title": "Biden faces key test, major opportunity ahead of Russia talks on Ukraine",
+        "description": "The slow-burning military standoff along the Russia-Ukraine border could reach a tipping point next week as the Biden administration enters a series of high-stakes diplomatic meetings with Moscow, and analysts say the U.S. and its NATO allies must seize a gol…",
+        "url": "https://www.washingtontimes.com/news/2022/jan/6/biden-faces-key-test-major-opportunity-ahead-russi/",
+        "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2021/12/17/nato_russia_85117_c0-0-7485-4366_s1200x700.jpg?b9e3280fa2f0841ec97f9d3024e0fe3e6ee2680b",
+        "publishedAt": "2022-01-06T17:18:00Z",
+        "content": "The slow-burning military standoff along the Russia-Ukraine border could reach a tipping point next week as the Biden administration enters a series of high-stakes diplomatic meetings with Moscow, an… [+5976 chars]"
+      },
+      {
+        "source": ["Object"],
+        "author": "NHL.com",
+        "title": "Rask signs tryout agreement with Bruins AHL team, likely to play Friday",
+        "description": "Tuukka Rask signed a professional tryout agreement with Providence of the American Hockey League on Thursday, the next step in a potential return to the Boston Bruins.",
+        "url": "https://www.nhl.com/news/tuukka-rask-signs-professional-tryout-agreement-with-bostons-ahl-affiliate/c-329521292",
+        "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/329521636/1024x576/cut.jpg",
+        "publishedAt": "2022-01-06T15:03:21Z",
+        "content": "The 34-year-old unrestricted free agent goalie signed a professional tryout agreement with the the Bruins AHL affiliate on Thursday. Providence hosts Lehigh Valley on Friday and Sunday.\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "Morgan Chalfant and Alex Gangitano",
+        "title": "Biden takes on Trump in fiery address on Jan. 6 | TheHill",
+        "description": "President Biden on Thursday forcefully rebuked former President Trump in an address marking the a...",
+        "url": "http://thehill.com/homenews/administration/588527-biden-takes-on-trump-in-fiery-address-on-jan-6",
+        "urlToImage": "https://thehill.com/sites/default/files/bidenjoe_010622gn6_lead.jpg",
+        "publishedAt": "2022-01-06T14:53:50Z",
+        "content": "President BidenJoe BidenPelosi on eve of Jan. 6: Capitol rioters 'lost' bid to stop peaceful transfer of powerMyPillow CEO Mike Lindell sues Jan. 6 panel over subpoena for phone recordsOvernight Defe… [+3374 chars]"
+      },
+      {
+        "source": ["Object"],
+        "author": "Andrew Sparrow",
+        "title": "UK coronavirus live: 500,000 people have had long Covid for more than year, says ONS",
+        "description": "Latest updates: figures come amid concern over NHS staffing crisis as Omicron spreads",
+        "url": "https://www.theguardian.com/politics/live/2022/jan/06/uk-covid-live-nhs-backlog-omicron-boris-johnson-coronavirus-latest-updates",
+        "urlToImage": "https://i.guim.co.uk/img/media/501dc615af51fbfb70548af94b5aabe9c0648fa1/0_178_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b81f5482bfd812c0b596fcd52aa10dbc",
+        "publishedAt": "2022-01-06T11:23:47+00:00",
+        "content": "Latest updates: figures come amid concern over NHS staffing crisis as Omicron spreads"
+      },
+      {
+        "source": ["Object"],
+        "author": "Ronja Mårtensson",
+        "title": "Föderska gavs för mycket värkstimulerande – barnet dog",
+        "description": "Ett barn dog i samband med en förlossning på Östra sjukhuset i våras. Nu har ansvarig läkare gjort en lex Maria-anmälan till Ivo – då kvinnan uppges ha fått för mycket värkstimulerande utan en tydlig plan.",
+        "url": "http://www.gp.se/nyheter/g%C3%B6teborg/f%C3%B6derska-gavs-f%C3%B6r-mycket-v%C3%A4rkstimulerande-barnet-dog-1.62889269",
+        "urlToImage": "https://www.gp.se/image/policy:1.61769698:1641236087/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a",
+        "publishedAt": "2022-01-03T19:09:23Z",
+        "content": null
+      },
+      {
+        "source": ["Object"],
+        "author": null,
+        "title": "FT Financial Literacy and Inclusion Campaign",
+        "description": "The FT invites readers to join our campaign to promote financial literacy in the UK and around the world",
+        "url": "https://www.ft.com/ft-seasonal-appeal",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb6b27a6e-ad17-44a5-b5eb-65b211168329.jpg?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2021-12-14T10:22:21.1325475Z",
+        "content": "We use\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": null,
+        "title": "Patrick Drahi’s Altice raises stake in BT to 18%",
+        "description": "UK government warns it could intervene if a full bid is launched",
+        "url": "https://www.ft.com/content/07f138f5-7e86-4e67-a5e9-7c8ae32eb0bd",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F611e3571-bf33-4563-9206-c4948709f329.jpg?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2021-12-14T10:22:19.1642872Z",
+        "content": "Patrick Drahi’s telecoms investment group Altice has increased its stake in BT to 18 per cent but said it is not currently planning to take control of the former UK telecoms monopoly.\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": null,
+        "title": "Surge in Omicron cases in Denmark and UK sends warning to rest of Europe",
+        "description": "Two countries show how the coronavirus variant is driving rates of infection and hospital admission",
+        "url": "https://www.ft.com/content/3c27c135-fdbc-4db7-8c7c-6e1f6c386235",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb164d5c6-67c9-46dd-83de-2bd1ba13642a.jpg?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2021-12-14T06:22:22.5088577Z",
+        "content": "Omicron will become the dominant coronavirus variant in Denmark this week, epidemiologists say, driving a rise in cases to record levels and offering a warning to the rest of Europe about the more tr… [+5299 chars]"
+      },
+      {
+        "source": ["Object"],
+        "author": "Anton Weste",
+        "title": "Premium-Payment-Services machen Onlineshops zukunftsfähig",
+        "description": "Der E-Commerce wächst rasant, gerade durch Einkäufe auf Mobilgeräten und im internationalen Handel. Wichtig fü",
+        "url": "https://t3n.de/news/premium-payment-shop-1425992/",
+        "urlToImage": "https://t3n.de/news/wp-content/uploads/2021/11/Mollie-Teaser--1200.jpg",
+        "publishedAt": "2021-12-09T12:30:00Z",
+        "content": "Sponsored Post \r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "RTÉ News",
+        "title": "UK continues with reopening plan despite concerns",
+        "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+        "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+        "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+        "publishedAt": "2021-05-15T09:33:48Z",
+        "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "GQ",
+        "title": "Apple Neuheiten: Was wir vor der ersten Keynote 2021 wissen!",
+        "description": "Bald soll es so weit sein: Bei der ersten Keynote 2021 präsentiert Apple Neues aus Cupertino. Auf diese Produkte dürfen wir uns freuen!",
+        "url": "https://www.gq-magazin.de/auto-technik/article/apple-neuheiten-2021-das-wissen-wir-vor-keynote",
+        "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/apple-neuheiten-event-erste-keynote-2021-technik-aufmjpg.jpg",
+        "publishedAt": "2021-03-23T17:09:52Z",
+        "content": "Auf eines ist im Frühjahr immer Verlass: Apple präsentiert seine (ersten) neuen Produkte. Glauben wir den jüngsten Gerüchten, wird das auch 2021 so sein und dieses Jahr sogar wieder live aus Cupertin… [+2936 chars]"
+      },
+      {
+        "source": ["Object"],
+        "author": "NTB-Johan Falnes",
+        "title": "Tik Tok installert på flere mobiler i regjeringen",
+        "description": "USA frykter at brukerdata fra Tik Tok kan bli overført til Kina. I Norge har flere i regjeringen lastet ned appen – inkludert statsminister Erna Solberg.",
+        "url": "https://www.aftenposten.no/norge/politikk/i/jdo5Le/Tik-Tok-installert-pa-flere-mobiler-i-regjeringen",
+        "urlToImage": "https://premium.vgc.no/ap/images/a189b15b-8b64-4e2e-a4a5-08ad9fa0315d?fit=crop&q=80&w=1440",
+        "publishedAt": "2020-07-09T05:07:23.894053Z",
+        "content": "smp-stories-top-widget\r\n"
+      },
+      {
+        "source": ["Object"],
+        "author": "Marianne Stensland",
+        "title": "Steriliseringsmetoden har resultert i over 33.000 søksmål. I Norge er metoden stoppet, men pasienter blir ikke informert.",
+        "description": "Etter at Kjerstin Bakkevoll fikk satt inn et implantat for å bli steril, fikk hun sterke fysiske plager. I Norge brukes ikke lenger implantatet, men norske pasienter får ingen informasjon.",
+        "url": "https://www.aftenposten.no/norge/i/8meo7W/Steriliseringsmetoden-har-resultert-i-over-33000-soksmal-I-Norge-er-metoden-stoppet_-men-pasienter-blir-ikke-informert",
+        "urlToImage": "https://premium.vgc.no/ap/images/c749f038-757a-4a77-8120-defafb37e7ce?fit=crop&q=80&w=1440",
+        "publishedAt": "2020-07-09T03:34:16Z",
+        "content": "En kveld i juni ligger Kjerstin Bakkevoll (42) og ektemannen i sengen og skal se på Netflix før de sovner. Han foreslår dokumentaren «The Bleeding Edge». Den handler om medisinsk utstyr og hvordan de… [+294 chars]"
+      }
+    ]
+  }
+}
