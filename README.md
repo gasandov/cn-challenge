@@ -28,6 +28,12 @@ Either you can choose to run the client and the server into its folder by:
 5. cors: needed to communicate client with the server
 6. newsapi: since this server is a middle layer between the client and the actual API I preferred to use their API
 
+## Supported Routes
+
+1. GET /docs
+2. POST /api/news
+3. POST /api/news/headlines
+
 ## Notes
 
-- API Key: bbcf593f9aef4f3ca3176e830bb42932 (obviously this is not exposed like this in a real project, but since the repo will be visible to the reviewers then is not a big deal)
+- API Key: `bbcf593f9aef4f3ca3176e830bb42932` (obviously this is not exposed like this in a real project, but since the repo will be visible to the reviewers then is not a big deal)
